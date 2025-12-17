@@ -36,7 +36,7 @@ Analyzed hotel reviews from Maputo using NLP techniques to uncover key satisfact
 **Tech:** Python, NLP, Text Mining, Data Visualization
 👉 [View on GitHub](https://github.com/Jaciaraa/Hotel-Sentiment-Analysis_DataScience/blob/main/Unveiling%20key%20hotel%20satisfaction%20factors%20in%20Maputo%20using%20-%20GITHUB.ipynb)
 
-### 🟦 **Time Series - Data Science** 
+### 🟫 **Time Series - Data Science** 
 Throughout this work, the iterations carried out and the approaches adopted to achieve forecasts of residential property prices in Spain.  
 **Tech:** variable selection, graphical analysis, data analysis such as outlier detection, stationarity analysis through the application of the ADF and PP tests (unit root tests) and the KPSS stationarity test, the selection and use of ARIMA, SARIMA, and SARIMAX models with exogenous variables from series B and C, as well as neural networks with and without fine-tuning.
  👉 [View on GitHub](https://github.com/Jaciaraa/Time-Series_DataScience/blob/main/Time%20Series%20-%20House_index_spain_GITHUB.ipynb)
